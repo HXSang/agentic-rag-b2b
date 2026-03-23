@@ -1,0 +1,9 @@
+langchain
+langchain-groq
+groq
+chromadb
+sentence-transformers
+pymupdf
+python-dotenv
+numpy
+pandas

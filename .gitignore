@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+*.pyc
+vectordb/chroma_store/
+.DS_Store
